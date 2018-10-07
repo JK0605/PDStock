@@ -1,0 +1,7 @@
+https://github.com/tensorflow/tensorflow
+https://github.com/BVLC/caffe
+https://github.com/StockSharp/StockSharp
+https://github.com/maxbbraun/trump2cash
+https://github.com/ricequant/rqalpha
+https://github.com/deependersingla/deep_trader
+https://github.com/keon/deepstock
