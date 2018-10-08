@@ -1,4 +1,5 @@
 https://github.com/tensorflow/tensorflow
+https://github.com/keras-team/keras
 https://github.com/BVLC/caffe
 https://github.com/StockSharp/StockSharp
 https://github.com/maxbbraun/trump2cash
